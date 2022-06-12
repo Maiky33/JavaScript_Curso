@@ -1,0 +1,18 @@
+Tipos de datos 
+
+
+Datos primitivos
+
+
+Numeros ->  let numero = 5;
+
+Strings (Cadenas) -> let palabra = 'hola';   ////  let palabra = "hola";
+
+boolean -> let respuesta = true; let respuesta = false;
+
+Undefined
+
+Null
+
+Symbol
+
